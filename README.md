@@ -1,4 +1,4 @@
-Crie um site completo, moderno e responsivo sobre "Curiosidades de Video Games" 
+ Crie um site completo, moderno e responsivo sobre "Curiosidades de Video Games" 
 que será hospedado no GitHub Pages. O site deve conter:
 
 ESTRUTURA:
