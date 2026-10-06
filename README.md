@@ -35,7 +35,7 @@ DESIGN:
 - Fonte: 'Poppins' ou 'Inter' do Google Fonts
 - Ícones: Font Awesome ou emojis
 - Efeito glassmorphism nos cards
-- Hover effects com glow neon
+- Hover effects com glow neon 
 
 DEPLOY:
 - Incluir instruções passo a passo para publicar no GitHub Pages
